@@ -1,0 +1,14 @@
+:root{
+    --color-primario: #F5F5F5;
+    --color-secundario: #464646;
+    --color-tres:#EAF2FD;
+}
+
+html{
+    font-family: Raleway, sans-serif;
+}
+
+main{
+    background-color: var(--color-primario);
+}
+

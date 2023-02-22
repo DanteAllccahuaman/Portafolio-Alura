@@ -1,0 +1,28 @@
+.sobreMi{
+    background-color: var(--color-tres);
+    width: 100%;
+    margin: 0 auto;
+}
+
+.sobreMi__container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.sobreMi__titulo{
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--color-secundari);
+    padding: 2rem 0;
+}
+
+.sobreMi__texto{
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--color-secundari);
+}
+
+.sobreMi__imagen{
+    width: 100px;
+    padding-top: 2.2rem;
+}

@@ -1,0 +1,40 @@
+.main{
+    width: 90%;
+    background-color: var(--color-primario);
+    margin: 0 auto;
+    padding: 2.2rem 0 0 0;
+}
+
+.main__titulo{
+    font-size: 1.2rem;
+    color: var(----color-secundario);
+    font-weight: 700;
+    padding: 1.2rem 0 0 0;
+}
+
+.main__texto{
+    font-size: 0.8rem;
+    color: var(----color-secundario);
+    font-weight: 400;
+    padding: 0.5rem 0 0 0;
+}
+
+.main__lista{
+    display: flex;
+    padding: 1rem 0;
+    gap: 8px;
+}
+
+.main__lista a{
+    text-decoration: none;
+    color: var(----color-secundario);
+    font-size: 0.7rem;
+}
+
+.main__lista li:nth-child(3){
+    color: red;
+}
+
+.main__lista a:hover{
+    text-decoration: underline;
+}

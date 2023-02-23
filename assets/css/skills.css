@@ -35,6 +35,11 @@
     padding-top: 1.5rem;
 }
 
+.skills__lista li i{
+    font-size: 4.5rem;
+    color: red;
+}
+
 .skills__imagen{
     width: 45px;
 }

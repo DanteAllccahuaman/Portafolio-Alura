@@ -1,0 +1,41 @@
+.formacion{
+    background-color: var(--color-tres);
+}
+
+.formacion__container{
+    width: 95%;
+    margin: 0 auto;
+    padding: 2.0rem 0;
+}
+
+.formacion__container__titulo{
+    font-size: 2.2rem;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 2.0rem;
+}
+
+.formacion__container__escuelas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.6rem 0;
+}
+
+/* .formacion__container__escuelas__imagen{
+    border-radius: 2.0rem;
+    border: 5px solid black;
+} */
+
+.formacion__container__escuelas__titulo{
+    font-size: 1.6rem;
+    font-weight: 700;
+    padding-top: 1.6rem;
+}
+
+.formacion__container__escuelas__texto{
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding-top: 1.2rem;
+}

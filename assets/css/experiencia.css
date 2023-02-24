@@ -1,0 +1,74 @@
+.experiencia{
+    width: 100%;
+}
+
+.experiencia__container{
+    width: 95%;
+    margin: 0 auto;
+    padding: 2.5rem 0;
+}
+
+.experiencia__container__titulo{
+    font-size: 2.2rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 2.5rem 0;
+}
+
+.experiencia__container__proyectos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+
+.experiencia__container__proyectos__titulo{
+    font-size: 1.6rem;
+    font-weight: 700;
+    padding: 0.8rem 0;
+}
+
+.experiencia__container__proyectos__texto{
+    font-size: 1.4rem;
+    font-weight: 500;
+    padding-top: 1.2rem;
+}
+
+.experiencia__container__proyectos__button{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.experiencia__container__proyectos__button button{
+    width: 100px;
+    height: 40px;
+    font-size: 1.4rem;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.experiencia__container__proyectos__button button:nth-child(1){
+    background-color: var(--color-blanco);
+    border: 2px solid var(--color-cuatro);
+}
+
+.experiencia__container__proyectos__button button:nth-child(2){
+    background-color: var(--color-cuatro);
+    border: 2px solid var(--color-cuatro);
+}
+
+.experiencia__container__proyectos__button button:nth-child(1) a{
+    color: #2A7AE4;
+}
+
+.experiencia__container__proyectos__button button:nth-child(2) a{
+    color: white;
+}
+
+.experiencia__container__proyectos__button__links{
+    text-decoration: none;
+}

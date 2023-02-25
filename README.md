@@ -1,2 +1,2 @@
 # Protafolio
-Ni un like siquiera u.u
+Ni un star dejan u.u

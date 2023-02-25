@@ -1,7 +1,7 @@
 .cabecera{
     width: 100%;
     height: 10vh;
-    background-color: #5a9cf8;
+    background-color: var(--color-tres);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -27,6 +27,7 @@
 
 .cabecera--modificado{
     padding-right: 50px;
-    font-size: 1.1rem;
+    font-size: 2.5rem;
+    color: black;
 }
 
